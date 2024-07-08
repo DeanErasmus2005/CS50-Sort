@@ -1,0 +1,16 @@
+sort1 uses: Bubble Sort
+
+
+How do you know?: its time is much faster than sort3 when running reversed10000.txt which tells me that because its a large dataset and in reversed order that it is indeed bubble sort
+
+
+sort2 uses: Merge Sort
+
+How do you know?: in sorted5000.txt it takes the smallest amount of time , thus because it is already sorted and it contains a small dataset. It only iterates once.
+
+
+sort3 uses: Selection Sort
+
+
+How do you know?: it performs the slowest of the test for example in reversed10000.txt it took very long to run which means that it had to iterate through everything n times
+
